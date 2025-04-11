@@ -27,6 +27,7 @@ Click on the Done icon to mark it complete.
 Click on the trash icon to delete an activity.
 6.Logout
 Click "Logout" to log out.
-
+# Vercel link
+https://actodolist-one.vercel.app/
 # Author
 Developed by Akshayasri
