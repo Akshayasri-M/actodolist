@@ -15,17 +15,17 @@ State Management: React Hooks (useState)
 Navigation: React Router DOM
 Icons:FontAwesomeIcon
 
-# Sign Up
+1.Sign Up
 Create a new account by providing a username and password.
-# Log In
+2.Log In
 Use your credentials to log in.
-# Add Activities
+3.Add Activities
 Enter your task and click "Add".
-# Completed Activities
+4.Completed Activities
 Click on the Done icon to mark it complete.
-# Remove Activities
+5.Remove Activities
 Click on the trash icon to delete an activity.
-# Logout
+6.Logout
 Click "Logout" to log out.
 
 # Author
